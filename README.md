@@ -1,7 +1,9 @@
 # Hi, I'm Srujana Guggilla  
 ## Data Engineer  
 
-![Profile Picture](./1000196990.jpg)
+<p align="right">
+  <img src="./1000196990.jpg" alt="Srujana Guggilla" width="180" />
+</p>
 
 ## 🌎🦋 Welcome To My World  
 
@@ -92,10 +94,15 @@ Used KNN, Random Forest, Decision Tree. Applied PCA for dimensionality reduction
 - Python for Data Science – Michigan University  
 
 ---
+<h2> 🤳 Connect with me:</h2>
 
-## 🤳 Connect with Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/srujana-guggilla-2512851a4/)  
-[LinkedIn Profile](https://www.linkedin.com/in/srujana-guggilla-2512851a4/)
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/srujana-guggilla-2512851a4/
 
 ---
