@@ -1,5 +1,5 @@
 # Hi, I'm Srujana Guggilla  
-### Data Engineer  
+## Data Engineer  
 
 ![Profile Picture](./1000196990.jpg)
 
