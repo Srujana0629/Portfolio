@@ -2,7 +2,7 @@
 
 <h2> Welcome To My World 🌎🦋 </h2>
 <p align="left">
-  <img src="./1000196990.jpg" alt="Srujana Guggilla" width="200" height="300" />
+  <img src="./1000196990.jpg" alt="Srujana Guggilla" width="200" height="200" />
 </p>
 
 **Based:** Texas, Arlington 
