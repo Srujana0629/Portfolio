@@ -7,7 +7,7 @@
 
 **Based:** Texas, Arlington 
 
-**Current Job**: Data Engineer 
+**Current Job**: Machine Learning Engineer
 
 **Email:** guggilla.srujana25@gmail.com
 
@@ -40,11 +40,16 @@ If you're seeking for someone with a unique combination of software development 
 
 <h2> Work Experience 👩‍💻</h2>
 
+**University of Texas at Arlington | Machine Learning Engineer |** 👩‍🏫💸
+
+I’ve always been passionate about applying machine learning to solve real-world problems, which led me to work on a project analyzing university placement data. As a Machine Learning Engineer, I developed and evaluated various models such as K-Nearest Neighbors, SVM, and Logistic Regression to predict student placement outcomes. This hands-on experience allowed me to deepen my understanding of ML pipelines—from data preprocessing and feature engineering to model selection and evaluation. I’m currently exploring ways to enhance the system further by implementing AI-driven recommendations to help students improve their chances of getting placed. This project not only strengthened my technical foundation but also sparked a deeper interest in building impactful AI solutions that can drive meaningful change.
+
+
 **University of Texas at Arlington | Teaching Assistant |** 👩‍🏫💸
 
 I have always been passionate about teaching, so I took up the teaching assistant position as an on-campus part-time role. I thoroughly enjoyed the experience of teaching and learning alongside undergraduate students. Helping them master Python for data science, clearing their doubts, and ensuring they understood even the most challenging concepts gave me immense satisfaction. This role not only strengthened my technical expertise but also boosted my confidence in my leadership skills and ability to connect with others. It taught me how to communicate complex ideas effectively and adapt my approach based on the needs of different individuals. I believe this experience is a significant plus point as I step into a professional setting, where teamwork, mentorship, and understanding diverse perspectives are just as important as technical skills.
 
-**University of Texas at Arlington | Data Engineer |** 👩‍💼💸
+**University of Texas at Arlington | Data Scientist |** 👩‍💼💸
 
 During my master’s, I worked on a research project with clinical trial data—my first venture into healthcare. Even with 2 years of data engineering experience in IT, this was a whole new challenge. I had to adapt quickly, applying my skills to a sensitive and complex field. Along the way, I learned how research works behind the scenes and gained valuable insights into healthcare data. It was a rewarding experience that helped me grow both technically and personally.
 
