@@ -1,4 +1,4 @@
-<h1>Hi, I'm Srujana Guggilla <br/>Data Engineer</a>
+<h1>Hi, I'm Srujana Guggilla <br/>My Data Journey</a>
 
 <h2> Welcome To My World 🌎🦋 </h2>
 <p align="left">
